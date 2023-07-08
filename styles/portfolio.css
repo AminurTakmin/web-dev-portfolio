@@ -72,9 +72,11 @@ nav a{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    flex-direction:;
 }
 .banner .pic{
     width: 500px;
+    padding: 0px 50px 0px 0px;
 }
 
 .b-greeting{
